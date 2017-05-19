@@ -27,7 +27,7 @@ public class TirelireRestController {
     }
     @RequestMapping(value = "/api/addSolde", method = RequestMethod.GET)
     public Double add(@RequestParam(required = true, value="login") final String login,
-                      @RequestParam(required = true, value="login") final Double solde) {
+                      @RequestParam(required = true, value="solde") final Double solde) {
         //return compteJob.getSold(login);
         return new Double(500+solde);
     }

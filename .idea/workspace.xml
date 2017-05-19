@@ -59,8 +59,8 @@
       <file leaf-file-name="TirelireRestController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tirelire/TirelireRestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="360">
+              <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -884,7 +884,7 @@
       <updated>1495227833584</updated>
       <workItem from="1495227836667" duration="376000" />
       <workItem from="1495234104106" duration="14000" />
-      <workItem from="1495234142655" duration="2150000" />
+      <workItem from="1495234142655" duration="2242000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1495235224123</created>
@@ -907,11 +907,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495236166522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update  addSold">
+      <created>1495236309658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1495236309658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2540000" />
+    <option name="totallyTimeSpent" value="2632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="972" extended-state="6" />
@@ -968,7 +975,8 @@
     <MESSAGE value="init project" />
     <MESSAGE value="updatte getSold" />
     <MESSAGE value="addd sold" />
-    <option name="LAST_COMMIT_MESSAGE" value="addd sold" />
+    <MESSAGE value="update  addSold" />
+    <option name="LAST_COMMIT_MESSAGE" value="update  addSold" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1189,8 +1197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tirelire/TirelireRestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="360">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
