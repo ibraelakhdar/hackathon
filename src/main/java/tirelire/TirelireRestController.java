@@ -37,8 +37,5 @@ public class TirelireRestController {
         //return compteJob.getSold(login);
         return new Double(500-amount);
     }
-
-
-
-
+    
 }
