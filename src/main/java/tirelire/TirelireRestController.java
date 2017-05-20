@@ -31,6 +31,13 @@ public class TirelireRestController {
         //return compteJob.getSold(login);
         return new Double(500+solde);
     }
+    @RequestMapping(value = "/api/reduceSolde", method = RequestMethod.GET)
+    public Double reduce(@RequestParam(required = true, value="login") final String login,
+                      @RequestParam(required = true, value="amount") final Double amount) {
+        //return compteJob.getSold(login);
+        return new Double(500-amount);
+    }
+
 
 
 
